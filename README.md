@@ -140,7 +140,7 @@ If you find this helpful:
 
 ## 📬 Maintainer
 
-Managed by: **Naveen Kumar P**
+Managed by: [Naveen Kumar P](https://github.com/mr-naveenseven)
 
 ---
 
